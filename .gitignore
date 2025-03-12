@@ -1,2 +1,4 @@
 *.zip
+src/*.shtml
+src/images/
 sitemap.xml
