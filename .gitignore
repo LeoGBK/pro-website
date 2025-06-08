@@ -1,4 +1,6 @@
 *.zip
 src/*.shtml
 src/images/
+node_modules/
+dist/
 sitemap.xml
